@@ -19,6 +19,8 @@
 .DS_Store
 
 # local env files
+# .env.example stays tracked as the template
+.env
 .env.local
 .env.*.local
 
